@@ -1,0 +1,11 @@
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/bin/Debug/netcoreapp2.0/RestAPI.deps.json
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/bin/Debug/netcoreapp2.0/RestAPI.runtimeconfig.json
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/bin/Debug/netcoreapp2.0/RestAPI.runtimeconfig.dev.json
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/bin/Debug/netcoreapp2.0/RestAPI.dll
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/bin/Debug/netcoreapp2.0/RestAPI.pdb
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/obj/Debug/netcoreapp2.0/RestAPI.csprojResolveAssemblyReference.cache
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/obj/Debug/netcoreapp2.0/RestAPI.csproj.CoreCompileInputs.cache
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/obj/Debug/netcoreapp2.0/RestAPI.AssemblyInfoInputs.cache
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/obj/Debug/netcoreapp2.0/RestAPI.AssemblyInfo.cs
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/obj/Debug/netcoreapp2.0/RestAPI.dll
+/Users/fenglin/Documents/School/OneDrive - Artesis Plantijn Hogeschool Antwerpen/CloudAPI/RestAPI/RestAPI/obj/Debug/netcoreapp2.0/RestAPI.pdb
